@@ -1,0 +1,50 @@
+body{
+background:url(37a38f5919cb66598a387a24d3e0f0fc.jpg) no-repeat;
+background-size:cover;
+}
+.form{
+width:250px;
+position:absolute;
+top:65%;
+left:23%;
+transform:translate(-30%,-30%);
+color:black;
+}
+.form h8{
+font-size:20;
+margin-bottom:10px;
+border-bottom:3px;
+padding:3px;
+}
+.textbox{
+width:100%;
+overflow:hidden;
+font-size:20px;
+padding:1px 0;
+margin:5px 0;
+border-bottom: 1px solid grey;
+}
+.textbox input{
+border:10%;
+outline:none;
+background:none;
+font-size:20px;
+width:100%;
+margin:0 0px;
+color:white;
+}
+.radio{
+font-size:20px;
+font-weight:500;
+}
+.btn{
+width:100%;
+background:none;
+border:2px solid skyblue;
+colour:white;
+padding:5px;
+font-size:18px;
+cursor:pointer;
+margin:12px 0;
+}
+
